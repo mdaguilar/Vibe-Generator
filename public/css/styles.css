@@ -1,0 +1,83 @@
+body {
+    background-color:#E9DAC1 !important;
+}
+
+.page-content {
+    margin: 0.5px;
+    padding: 10px;
+}
+
+header {
+  background-color: #54BAB9;
+  text-align: center;
+  font-weight: strong;
+  padding: 10px;
+  border-radius: 1em;
+  text-decoration: none !important;
+}
+
+h1 {
+  color: #E9DAC1;
+}
+
+
+nav {
+   text-align: left !important;
+   background-color:rgb(7, 5, 1) !important;
+   font-weight: strong;
+   padding: 10px;
+   margin: 0 !important;
+   
+}
+
+nav a {
+    text-decoration: none !important;
+    color: #E9DAC1;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: lime;
+}
+
+#webSubtitle{
+  text-align: center;
+  font-style: italic;
+}
+
+footer{
+  text-align: center;
+  font-style: italic;
+}
+
+#IntroSen{
+  text-align:center;
+}
+
+#quizQ{
+  justify-content: center;
+  display: inline-grid;
+  grid-auto-flow: dense;
+  align-items: center;
+}
+
+h3{
+  text-align:center;
+}
+
+#qText{
+  color: #54BAB9;
+}
+
+#spotifyResult{
+  text-align: center;
+}
+
+
+/**
+#quizC{
+  display: inline-grid;
+  grid-auto-flow: dense;
+  align-items: center;
+}
+**/
